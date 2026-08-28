@@ -15,3 +15,6 @@ env/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+# PDF files
+*.pdf
